@@ -17,19 +17,19 @@ You will also see any lint errors in the console.
 after cloning the repository enter the frontend folder
 
 $ cd app
-### yarn
+### `yarn`
 
 $ yarn
 
-### npm
+### `npm`
 
 $ npm install
 
 ### How to run application
 
-### yarn
+### `yarn`
 
 $ yarn start
 
-### npm
+### `npm`
 $ npm start
