@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fafafa;
+    color: #333;
+}
+
+.lista-comments {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+}
+
+.card-comment {
+    background: #fff;
+    padding: 29px;
+    margin: 10px;
+    border-radius: 8px;
+    width: 100%;
+}
+
+form input {
+    padding: 10px;
+    border: 1px solid #f1f1f1;
+    background: #f7f7f7;
+    border-radius: 8px 0 0 8px;
+    margin: 10px 0;
+}
+
+form button {
+    padding: 10px;
+    background: rgb(55, 177, 177);
+    color: #fff;
+    border-radius: 0 8px 8px 0;
+    border: 0;
+}
+
+form button:hover {
+    background: rgb(40, 141, 141);
+}
+
+.card-comment p {
+    color: rgb(112, 112, 112);
+    margin-top: 5px;
+}
